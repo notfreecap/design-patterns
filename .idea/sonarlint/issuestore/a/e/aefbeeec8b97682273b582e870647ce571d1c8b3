@@ -1,0 +1,10 @@
+
+f
+java:S12060"PThis class overrides "equals()" and should therefore also override "hashCode()".(Н№—г
+O
+java:S5993
+"9Change the visibility of this constructor to "protected".(Ь£Є»
+T
+java:S5993"9Change the visibility of this constructor to "protected".(№УЄвь€€€€
+n
+java:S2975-"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Те°÷ъ€€€€

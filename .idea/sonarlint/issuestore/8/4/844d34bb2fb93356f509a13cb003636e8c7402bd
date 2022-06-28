@@ -1,0 +1,6 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©¡ø«øÿÿÿÿ8åÂá˜0
+y
+java:S1450"WRemove the "mediator" field and declare it as a local variable in the relevant methods.(Ë¶É°üÿÿÿÿ8µ˜Õ˜0
+G
+java:S1068",Remove this unused "mediator" private field.(Ë¶É°üÿÿÿÿ
